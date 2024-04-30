@@ -50,4 +50,3 @@ if (first > last)
 printf("Element Not found in the Array."); 
 getch(); 
 } 
-O
